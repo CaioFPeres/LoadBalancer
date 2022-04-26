@@ -1,0 +1,15 @@
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.csproj.AssemblyReference.cache
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.AssemblyInfoInputs.cache
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.AssemblyInfo.cs
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\LoadBalancer.exe
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\LoadBalancer.deps.json
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\LoadBalancer.runtimeconfig.json
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\LoadBalancer.dll
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\LoadBalancer.pdb
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.dll
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.pdb
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\LoadBalancer.genruntimeconfig.cache
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\obj\Debug\net6.0\ref\LoadBalancer.dll
+C:\Users\Caio Peres\source\repos\LoadBalancer\LoadBalancer\bin\Debug\net6.0\ref\LoadBalancer.dll

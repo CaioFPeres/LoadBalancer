@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xm1STGagfsa2kIb8GSeNjOVnqiWM8e/1rjI/GDVkPjFDrNr4IQGcWhX20TtHCiXYNGABsse9I+G4Ud9+Gm6BMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio Peres\\source\\repos\\LoadBalancer\\LoadBalancer\\LoadBalancer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.1\\microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.1\\microsoft.netcore.app.host.linux-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

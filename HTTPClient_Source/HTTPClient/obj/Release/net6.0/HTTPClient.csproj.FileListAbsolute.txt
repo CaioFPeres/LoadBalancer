@@ -1,0 +1,15 @@
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\HTTPClient.exe
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\HTTPClient.deps.json
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\HTTPClient.runtimeconfig.json
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\HTTPClient.dll
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\ref\HTTPClient.dll
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\bin\Release\net6.0\HTTPClient.pdb
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.csproj.AssemblyReference.cache
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.AssemblyInfoInputs.cache
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.AssemblyInfo.cs
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.dll
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\ref\HTTPClient.dll
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.pdb
+C:\Users\Caio Peres\source\repos\HTTPClient\HTTPClient\obj\Release\net6.0\HTTPClient.genruntimeconfig.cache

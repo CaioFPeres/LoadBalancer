@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnzhK1N49mV+KrEajDDi8DI1P5Oby67f7atQVOt0+9dNitKvB2bY3XIJBLhL/FA6vZk5B6LFG0qJq7hkiWhPTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio Peres\\source\\repos\\HTTPClient\\HTTPClient\\HTTPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.1\\microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.1\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "C:\\Users\\Caio Peres\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.1\\microsoft.netcore.app.host.linux-x64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
